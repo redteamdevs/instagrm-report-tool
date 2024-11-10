@@ -4,7 +4,7 @@ A powerful tool for reporting instagram accounts.
 developer: https://t.me/pysmart
 
 
-![3538EC03-31A1-4C43-934D-F2534910A00D_1_105_c](https://github.com/user-attachments/assets/d46f0846-a2c8-4dc6-90f6-57c1f5770ea7)
+![red](https://github.com/user-attachments/assets/64fa7546-fdf0-414d-a4ba-6b45df0944be)
 
 
 # STEPS TO FOLLOW
