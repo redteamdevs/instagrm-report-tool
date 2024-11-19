@@ -21,4 +21,4 @@ for further assistance:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to instagram users
+automated tool for sending bulk reports to instagram users with scraping feature also
