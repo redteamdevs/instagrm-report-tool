@@ -7,7 +7,7 @@ developer: https://t.me/pysmart
 ![red](https://github.com/user-attachments/assets/64fa7546-fdf0-414d-a4ba-6b45df0944be)
 
 
-# STEPS TO FOLLOW
+# STEPS TO FOLLOW CORRECTLY
 - generate up to 50-100 sessions
 - generate proxies, you can use free proxies
 - feel free to message me for a guide
