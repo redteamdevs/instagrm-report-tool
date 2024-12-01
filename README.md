@@ -3,6 +3,7 @@ A powerful tool for reporting instagram accounts.
 
 developer: https://t.me/pysmart
 
+INSTAGRAM REPORT BOT
 
 ![red](https://github.com/user-attachments/assets/64fa7546-fdf0-414d-a4ba-6b45df0944be)
 
