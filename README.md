@@ -22,4 +22,4 @@ for further support:
 
 contact developer: https://t.me/pysmart
 
-automated tool for sending bulk reports to instagram users with scraping feature also
+automated software for sending bulk reports to instagram users with scraping feature also
