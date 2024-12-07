@@ -23,3 +23,5 @@ for further support:
 contact developer: https://t.me/pysmart
 
 automated software for sending bulk reports to instagram users with scraping feature also
+
+INSTAGRAM REPORT BOT
