@@ -26,3 +26,4 @@ automated software for sending bulk reports to instagram users with scraping fea
 
 INSTAGRAM REPORT BOT
 INSTAGRAM MASS REPORT TOOL
+INSTAGRAM MASS REPORTS
