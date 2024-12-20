@@ -1,7 +1,7 @@
 # instagram-reporter
 A powerful tool for reporting instagram accounts.
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 INSTAGRAM REPORT BOT
 
@@ -13,14 +13,14 @@ INSTAGRAM REPORT BOT
 - generate proxies, you can use free proxies
 - feel free to message me for a guide
 
-developer: https://t.me/pysmart
+developer: https://t.me/profcoders
 
 # USAGE
 - there is the windows os version and mac os version
 
 for further support:
 
-contact developer: https://t.me/pysmart
+contact developer: https://t.me/profcoders
 
 automated software for sending bulk reports to instagram users with scraping feature also
 
